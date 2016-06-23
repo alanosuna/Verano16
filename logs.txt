@@ -1,0 +1,29 @@
+commit 288a5f41c73aeaafe88601dc5b557f3f22d14b34
+Author: alan <alanjes4@hotmail.com>
+Date:   Thu Jun 23 11:36:53 2016 -0600
+
+    Footer
+
+commit 6541d9cfc9a46db90c79c1ce788a8bc5ce4365cf
+Author: alan <alanjes4@hotmail.com>
+Date:   Thu Jun 23 11:32:27 2016 -0600
+
+    contenido
+
+commit 6a8595c85eee03291d8399bc5aea472c5fff1951
+Author: alan <alanjes4@hotmail.com>
+Date:   Thu Jun 23 11:17:42 2016 -0600
+
+    bootstrap integrado
+
+commit fe2756fa16e27a8dd6b86231e861e984655ebbc6
+Author: alan <alanjes4@hotmail.com>
+Date:   Thu Jun 23 11:10:10 2016 -0600
+
+    encabezado de la pagina
+
+commit 44bfcd14fafe810459de1f32d05eec87e15c3fc5
+Author: alan <alanjes4@hotmail.com>
+Date:   Thu Jun 23 11:01:40 2016 -0600
+
+    estructura base del proyecto
